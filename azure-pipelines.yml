@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: testppl
+  name: local
   vmImage: ubuntu-latest
 
 variables:
